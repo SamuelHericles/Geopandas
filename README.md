@@ -27,6 +27,10 @@ junto com o folium para gráficos interativos:
 
 * ``` pip install folium```
 
+Para executar esse projeto é apenas no ir terminal do seu sistema operacional na pasta deste projeto e executar o comando:
+
+```jupyter-notebook```
+
 # Licença
 
 código aberto, pois é apenas para intuito de aprendizagem.
