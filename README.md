@@ -15,6 +15,18 @@ de dados georeferênciados (veja o que o é georeferenciamento: encurtador.com.b
 * ```pandas 1.0.4``` - biblioteca para manipulação de dados de várias extensões( .csv, .txt, .xls, etc.)
 * ```folium 0.11.0 ou superior``` - biblioteca em python para vizualização de mapas de forma interativa
 
+# Guia de instalação
+
+Tive dificuldades em instalar a biblioteca geopandas no windows, então o projeto foi feito em uma distro linux. Sendo assim, foi apenas
+
+* ```pip install geopandas```
+
+
+junto com o folium para gráficos interativos:
+
+
+* ``` pip install folium```
+
 # Licença
 
 código aberto, pois é apenas para intuito de aprendizagem.
