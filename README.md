@@ -2,6 +2,10 @@
 Curso introdutório sobre a biblioteca Geopandas(veja: https://github.com/geopandas/geopandas). Com ela você pode fazer 
 análise de dados georeferenciados bem como aplicar modelos de machine learning (para previsões de preços de imóveis, por exemplo).
 
+Exemplo do que foi visto, mapa censitário da cidade de rio janeiro:
+![Mapa censitário da cidade de Rio Janeiro](06.Vizualizacoes/download.png)
+
+
 # Pré-requisitos
 * ```jupyter notebook 6.0.3 ou superior``` - ambiente computacional comum na comunidade de ciência de dados e aprendizado de máquina para vizualização de resultados
 em pequenos pedaços de código chamados de **células** ou **notebooks**.
