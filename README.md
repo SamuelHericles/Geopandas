@@ -2,7 +2,7 @@
 Curso introdutório sobre a biblioteca Geopandas(veja: https://github.com/geopandas/geopandas). Com ela você pode fazer 
 análise de dados georeferenciados bem como aplicar modelos de machine learning (para previsões de preços de imóveis, por exemplo).
 
-Exemplo do que foi visto, mapa censitário da cidade de rio janeiro:
+Exemplo do que foi visto, mapa censitário da cidade de Rio de Janeiro:
 ![Mapa censitário da cidade de Rio Janeiro](06.Vizualizacoes/download.png)
 
 
