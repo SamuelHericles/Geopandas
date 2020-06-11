@@ -29,7 +29,7 @@ junto com o folium para gráficos interativos:
 
 Para executar esse projeto é apenas no ir terminal do seu sistema operacional na pasta deste projeto e executar o comando:
 
-```jupyter-notebook```
+* ```jupyter-notebook```
 
 # Licença
 
